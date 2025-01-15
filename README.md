@@ -21,8 +21,8 @@ my personal portfolio and study
 
 |git제목|내용|URL|
 |------|---|---|
-|더미|더미|더미|
-|더미|더미|더미|
+|caffee_python|카페 키오스크를 도커 기준으로 만드는 프로젝트입니다.|[GitHub caffee_python](https://github.com/malenwater/caffee_python)|
+|-Aladdin|2023년 대학교 AI 수업 자연어 데이터인 책 제목, 판매량들을 파이썬에서 크롤링하는 코드입니다.|[GitHub Aladdin](https://github.com/malenwater/-Aladdin)|
 
 ### 2024-2 ROCKEY 부트캠프 정리
 해당 부트캠프는 4개월 동안 파이썬, AI, ROS에 배우고 2개월 실습을 진행하였습니다. 아래 8가지는 진행했던 프로젝트에 대한 깃허브입니다. 진행순서는 아래와 같습니다.
