@@ -15,13 +15,14 @@ my personal portfolio and study
 
 |git제목|내용|URL|
 |------|---|---|
-|dailyStudy|매일 공부하려는 깃허브입니다.|[GitHub Repository](https://github.com/malenwater/dailyStudy)|
-|NEO|2024-1학기 게임 서버를 제공하는 서비스입니다.|[GitHub Repository]()|
+|dailyStudy|매일 공부하려는 깃허브입니다.|[GitHub dailyStudy](https://github.com/malenwater/dailyStudy)|
+|NEO|2024-1학기 게임 서버를 제공하는 서비스입니다.|[GitHub NEO]()|
 ### private 깃
 
 |git제목|내용|URL|
 |------|---|---|
-|더미|더미|[GitHub Repository](https://github.com/malenwater/dailyStudy)|
+|더미|더미|더미|
+|더미|더미|더미|
 
 ### 2024-2 ROCKEY 부트캠프 정리
 해당 부트캠프는 4개월 동안 파이썬, AI, ROS에 배우고 2개월 실습을 진행하였습니다. 아래 8가지는 진행했던 프로젝트에 대한 깃허브입니다. 진행순서는 아래와 같습니다.
