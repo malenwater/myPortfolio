@@ -16,7 +16,7 @@ my personal portfolio and study
 |git제목|내용|URL|
 |------|---|---|
 |dailyStudy|매일 공부하려는 깃허브입니다.|[GitHub dailyStudy](https://github.com/malenwater/dailyStudy)|
-|NEO|2024-1학기 게임 서버를 제공하는 서비스입니다.|[GitHub NEO]()|
+|NEO|2024-1학기 게임 서버를 제공하는 서비스입니다.|[GitHub NEO](https://github.com/ajouNEO/NEO)|
 ### private 깃
 
 |git제목|내용|URL|
