@@ -41,7 +41,7 @@ my personal portfolio and study
 |------|---|---|
 |2024-2_ROKEY_class_project|ROKEY 부트 캠프에서 진행한 2개 프로젝트와 AI 미니 대회입니다.|[GitHub Rokey 심화반 프로젝트](https://github.com/malenwater/2024-2_ROKEY_class_project)|
 |2024-2_ROKEY_serving_robot_project|1주차 - 서빙 로봇 서비스를 만드는 프로젝트를 기획,개발,발표까지 진행합니다.|[GitHub 실습 1주차 프로젝트](https://github.com/malenwater/2024-2_ROKEY_serving_robot_project)|
-|테스트|테스트|테스트|
+|2024-2_ROKEYBOOTCAMP_Collaborative_robot_project_1|2주차 - 두산 협동 로봇을 제어하는 법을 진행합니다.|[GitHub 실습 2주차 프로젝트](https://github.com/malenwater/2024-2_ROKEYBOOTCAMP_Collaborative_robot_project_1)|
 |테스트|테스트|테스트|
 |테스트|테스트|테스트|
 |테스트|테스트|테스트|
