@@ -17,6 +17,8 @@ my personal portfolio and study
 |------|---|---|
 |dailyStudy|매일 공부하려는 깃허브입니다.|[GitHub dailyStudy](https://github.com/malenwater/dailyStudy)|
 |NEO|2024-1학기 게임 서버를 제공하는 서비스입니다.|[GitHub NEO](https://github.com/ajouNEO/NEO)|
+|Lego-Disassembler|대학교 3학년 2학기, AI 주제 중 하나인 레고 조립 사진에서 레고 부품 개수를 찾아내는 깃입니다. 10개 이내는 성능이 좋으나 그 이상은 어렵다는 것으로 판단됩니다.|[GitHub Lego-Disassembler](https://github.com/Sung-Minsoek/Lego-Disassembler)|
+|더미|더미|더미|
 ### private 깃
 
 |git제목|내용|URL|
